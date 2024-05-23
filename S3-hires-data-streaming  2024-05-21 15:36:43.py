@@ -227,3 +227,8 @@ plt.ylabel('Count', fontsize=30)
 plt.tick_params(axis='both', labelsize=25)
 plt.title('Hires by year', fontsize=50)
 plt.show()
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC __End of file__
